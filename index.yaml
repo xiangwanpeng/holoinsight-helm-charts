@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  holoinsight:
+  - annotations:
+      artifacthub.io/license: Apache-2.0
+    apiVersion: v2
+    appVersion: 0.2.0
+    created: "2023-06-13T03:16:41.170123123Z"
+    description: HoloInsight Helm chart for Kubernetes
+    digest: a9c9e33296b788e48c65a687eacef7639c47f74bd91070f5afe6a456cdf53671
+    home: https://github.com/traas-stack/holoinsight
+    icon: https://github.com/traas-stack/holoinsight/raw/main/docs/logo/logo.png
+    keywords:
+    - holoinsight
+    - monitor
+    maintainers:
+    - email: xzchaoo@gmail.com
+      name: xzchaoo
+      url: https://github.com/xzchaoo
+    name: holoinsight
+    type: application
+    urls:
+    - https://github.com/xiangwanpeng/holoinsight-helm-charts/releases/download/holoinsight-0.2.4/holoinsight-0.2.4.tgz
+    version: 0.2.4
+generated: "2023-06-13T03:16:41.170134323Z"
